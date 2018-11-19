@@ -1,3 +1,12 @@
 <resources>
+
     <string name="app_name">My ApplicationDataBase SQLite</string>
+
+    <string name="add">ADD</string>
+    <string name="clear">CLEAR</string>
+    <string name="read">READ</string>
+
+    <string name="name">Name</string>
+    <string name="email">EMAIL</string>
+
 </resources>
